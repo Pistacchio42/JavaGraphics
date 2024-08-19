@@ -1,5 +1,6 @@
-
 import javax.swing.*;
+import java.awt.*;
+import javax.swing.JComponent;
 
 public class Graphics101 {
 
@@ -7,7 +8,9 @@ public class Graphics101 {
         JFrame frame = new JFrame("Frame");
         frame.setSize(600, 600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.getContentPane().add(new ShapeDrawing());
         frame.setVisible(true);
     }
-
 }
+
+
