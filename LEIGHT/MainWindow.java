@@ -35,7 +35,7 @@ public class MainWindow {
         label.setForeground(Color.WHITE);
         label.setFont(new Font("Impact", Font.BOLD, 35));
 
-        ImageIcon labelIcon=new ImageIcon("LEIGHT\\Rock_Lee.png");
+        ImageIcon labelIcon=new ImageIcon("ASSETS\\Rock_Lee.png");
         label.setIcon(labelIcon);
         label.setIconTextGap(15);
         //label.setHorizontalTextPosition(SwingConstants.CENTER);
