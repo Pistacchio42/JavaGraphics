@@ -11,7 +11,7 @@ public class MainWindow {
 
     public void initialize(){
         frame = new JFrame();
-        frame.setTitle("5");
+        frame.setTitle("base");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setSize(500,500);
         frame.setLocationRelativeTo(null);
