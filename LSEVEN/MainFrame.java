@@ -34,7 +34,7 @@ public class MainFrame {
     private JButton createButton() {
         JButton button = new JButton("Print");
         button.setFocusable(false);
-        ImageIcon icon = new ImageIcon("pngegg(3).png");
+        ImageIcon icon = new ImageIcon("LSEVEN\\pngegg(3).png");
         button.setIcon(icon);
         button.setIconTextGap(15);
         button.setMnemonic(KeyEvent.VK_P);      ///Event from keyboard (ALT+P)
