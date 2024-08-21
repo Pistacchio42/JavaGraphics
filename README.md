@@ -33,3 +33,6 @@ First usage of java for drawing things
 
 #Lesson 11:
     Nimbus
+
+#Lesson 12:
+    Password field
